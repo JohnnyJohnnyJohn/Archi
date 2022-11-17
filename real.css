@@ -14,7 +14,7 @@
     src: local('SF Mono Bold'), url('assets/fonts/SFMonoBold.woff') format('woff');
 }
 
-body, html{
+body{
     background-color: #EFE8E1;
     margin: auto;
     font-family: 'Sen';
@@ -173,9 +173,9 @@ footer{
         flex-direction: column;
     }
 
-    /* .nav{
+    .nav{
         display: none;
-    } */
+    }
 
     #hamburger button{
         display: block;
